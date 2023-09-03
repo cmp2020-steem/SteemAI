@@ -1,4 +1,3 @@
-import threading
 import pandas as pd
 from Downloading.Blockchain import get_block
 from steem import Steem
